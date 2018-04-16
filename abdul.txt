@@ -1,0 +1,13 @@
+# Offline activation file
+license_number:6721-463-047-9017
+installed_features:ARM.EW.COMPILER,1.09;ARM.EW.CRUN,1.09;ARM.EW.CSTAT,1.09;ARM.EW.DEBUGGER,1.09;ARM.EW.LIBSRC,1.09;ARM.EW.LINKER,1.09;ARM.EW.MISRAC,1.09
+lock_ip:*1TKZD4P5FAFPHK3
+lock_mac:*1PSSG2E3ADBFQQK
+lock_disk:*156LXRYN48X8QL
+lock_uuid:*1KSRY6JV57EZ
+lock_uuid_host:*1GZTRHZVG53WPCB
+lock_uuid_mac:*1FJJF8PKMKR3FB5
+lock_mac_host:*1MVNQKZS7LEEABF
+lock_hdd:*1U93UC8SU89KKR9
+virtual:false
+# Offline activation
